@@ -83,5 +83,4 @@ image_viewer/
 
 🖼️ Fullscreen support
 
-👨‍💻 Author
-         Rahul U
+👨‍💻 Author : Rahul U
