@@ -46,8 +46,7 @@ pip install pillow
 
 Clone the repository:
 
-git clone https://github.com/your-username/image-viewer-tkinter.git
-
+git clone (https://github.com/bankaisenpai/Imageviewer-Tkinter.git)
 
 Navigate to the project directory:
 
